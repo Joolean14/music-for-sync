@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Fractal",
+      "artist": "Margarita Siempre Viva",
+      "mood": ["Happy", "Energetic"],
+      "spotifyId": "2sffCuPLCgW4i3toJHdabf"
+    },
+    {
+      "id": 2,
+      "title": "No Te Vayas Nunca",
+      "artist": "Bella Álvarez",
+      "mood": ["Energetic", "Party"],
+      "spotifyId": "5eaiGwQuUgJ9sOE1ZMbMvm"
+    },
+    {
+      "id": 3,
+      "title": "No Copio",
+      "artist": "Crudo Means Raw",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "20ULOJfgc85eBXq83rjKEf"
+    }
+  ]
+  
