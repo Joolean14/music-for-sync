@@ -16,7 +16,7 @@
         <div class="container" x-data="galleryApp()">
             <div class="columns is-flex">
                 <div class="column is-one-fifth">
-                    <a  href="https://www.falsoidolo.com">
+                    <a href="https://www.falsoidolo.com">
                         <img class="image is-128x128" src="falso-idolo-logo.png" alt="">
                     </a>
                 </div>
@@ -49,28 +49,34 @@
                 </div>
             </div>
 
-            <!-- Songs Grid -->
             <div class="columns is-multiline">
                 <template x-for="song in filteredSongs" :key="song.id">
                     <div class="column is-one-third">
                         <div class="card">
-                            <!-- Card Content -->
                             <div class="card-content">
                                 <p class="title is-4" x-text="song.title"></p>
                                 <p class="subtitle is-5" x-text="song.artist"></p>
-                                <p class="subtitle is-5" x-text="song.mood"></p>
-                                <!-- Spotify Embed -->
+                                <p class="subtitle is-6" x-text="song.mood"></p>
+
+                                <!-- Spotify Play Button (Minimal Embed) -->
                                 <div class="spotify-player">
                                     <iframe
-                                        :src="'https://open.spotify.com/embed/track/' + song.spotifyId + '?utm_source=generator'"
+                                        x-bind:src="song.visible ? 'https://open.spotify.com/embed/track/' + song.spotifyId + '?utm_source=generator&theme=light' : ''"
                                         width="100%" height="80" frameborder="0" allowtransparency="true"
-                                        allow="encrypted-media"></iframe>
+                                        allow="encrypted-media" x-show="song.visible"></iframe>
+                                    <div x-show="!song.visible">
+                                        <!-- Simple Play Button -->
+                                        <button class="button is-primary" x-on:click="song.visible = true">
+                                            Play
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </template>
             </div>
+
 
             <!-- No Results Message -->
             <div x-show="filteredSongs.length === 0" class="has-text-centered">
