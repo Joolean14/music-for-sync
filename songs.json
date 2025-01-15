@@ -19,6 +19,126 @@
       "artist": "Crudo Means Raw",
       "mood": ["Sad", "Chill"],
       "spotifyId": "20ULOJfgc85eBXq83rjKEf"
+    },
+    {
+      "id": 4,
+      "title": "Al Agua",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "6r1zwgrwBFNztL7f2b1FOu"
+    },
+    {
+      "id": 5,
+      "title": "Cauca",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "0YqzMUpMI1CBlm72zycsAd"
+    },
+    {
+      "id": 6,
+      "title": "Todos El Mismo",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "2skR9bE9cCHIt5rzDE5YZG"
+    },
+    {
+      "id": 7,
+      "title": "Rakashika River",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "5h3kBhahNe96zjc1AQCC49"
+    },
+    {
+      "id": 8,
+      "title": "Sin Embargo Allí Estábamos",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "2BvmyQaw51TFtPtfGiFaNg"
+    },
+    {
+      "id": 9,
+      "title": "Garzón (Presidente Eterno)",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "4azXiURXec4PjfPPItg0B6"
+    },
+    {
+      "id": 10,
+      "title": "Abad Colorado(Anestesia y Sangria)",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "1oRYuui26rgTCxV90ofzVC"
+    },
+    {
+      "id": 11,
+      "title": "Gaitan(De Don Mengano a Don Sultano)",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "77GuNJ5wTbMKxnZiMyfCcf"
+    },
+    {
+      "id": 12,
+      "title": "Galán(Usted No Sabe Quién Soy Yo)",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "1NePmxfPyuILcWnOW7JbUw"
+    },
+    {
+      "id": 13,
+      "title": "Ser Campesino Es Un Delito",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "4MrLah4HS5q1muFeKAdi2y"
+    },
+    {
+      "id": 14,
+      "title": "En Trozos Por La Tierra",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "0zALfds8kYhgWLgVIickpr"
+    },
+    {
+      "id": 15,
+      "title": "Del Campo A La Invasión",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "4HG5wyTOb8JC5UgxIExvHP"
+    },
+    {
+      "id": 16,
+      "title": "¿Para Allá Vamos!.",
+      "artist": "Yo Me Lanzo",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "3cbX4zrWHY7Ug0dChcLw1n"
+    },
+    {
+      "id": 17,
+      "title": "Hate",
+      "artist": "Yo Me Lanzo, Ryan Eagle",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "2Aae19qWh91p8pNPnWpDyN"
+    },
+    {
+      "id": 18,
+      "title": "Behind You, Inside You",
+      "artist": "Yo Me Lanzo, Ryan Eagle",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "1fVVzw63j2Fv39UlLW3GZ0"
+    },
+    {
+      "id": 19,
+      "title": "Hominido",
+      "artist": "Yo Me Lanzo, Ryan Eagle",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "5n7NGkQi4yRmo9osqGDReG"
+    },
+    {
+      "id": 20,
+      "title": "Love",
+      "artist": "Yo Me Lanzo, Ryan Eagle",
+      "mood": ["Sad", "Chill"],
+      "spotifyId": "1xjd9X2Sgle0UxOsnTMD1z"
     }
+    
   ]
   
